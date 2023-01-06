@@ -1,0 +1,10 @@
+title: My first website
+email: pg21prateek.dadhich@isbm.ac.in
+description: This my first website!!!!
+instagram_username: Prateek Dadhich
+github_username: Prateek90000
+
+# Some Designs
+theme: minima
+plugins:
+  -jekyll-feed
